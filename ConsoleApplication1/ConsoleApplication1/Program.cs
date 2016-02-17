@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello"); //pirint12
+            Console.WriteLine("hello"); //print
         }
     }
 }
