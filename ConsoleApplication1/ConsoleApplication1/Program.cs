@@ -10,8 +10,14 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+int i=0;
+While(true) //while start
+{
             Console.WriteLine("hello World!"); //printHellowolrd! 
 Console.WriteLine("こんにちは¥r¥niPhoneより送信"); //change by iPhone 
+i++;
+Console.WriteLine(i); 
+} //while end
         }
     }
 }
