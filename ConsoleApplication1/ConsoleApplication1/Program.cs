@@ -10,7 +10,8 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello World!"); //printHellowolrd!
+            Console.WriteLine("hello World!"); //printHellowolrd! 
+Console.WriteLine("こんにちは¥r¥niPhoneより送信"); //change by iPhone 
         }
     }
 }
